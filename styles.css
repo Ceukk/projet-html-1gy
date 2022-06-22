@@ -10,3 +10,16 @@ h2.blue {
     border: 2px solid green;
 }
 
+h2.special{
+    color:aqua;
+}
+
+h2.special1{
+    color:blueviolet;
+}
+
+#contents {
+    border: 2px purple ;
+    text-align: center;
+    text-decoration-line: underline;
+}
